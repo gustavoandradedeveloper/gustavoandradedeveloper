@@ -27,6 +27,6 @@
 </div>
 
 
-- 🔭 Sou um programador full stack
+- 🔭 Futuro Programador Full Stack
 - 💬 Contate-me pelo email: gustavoandradedeveloper@gmail.com
 - 🌎 Meu site: https://www.gustavoandradedeveloper.com/
