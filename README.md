@@ -1,8 +1,7 @@
 ## Olá, eu sou o Gustavo Andrade!
 
 
-<div style="display: inline_block"><br>        
-  <img align="center" alt="gusta-laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" /> 
+<div style="display: inline_block"><br>         
   <img align="center" alt="gusta-codeigniter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" /> 
   <img align="center" alt="gusta-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="gusta-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
